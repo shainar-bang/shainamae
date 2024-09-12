@@ -1,0 +1,9 @@
+let name = "Shaina Mae P. Rabang";
+let whatDoYouWannaBecomeinYourLife = "programmer";
+let gender = "female";
+let instagramHandle = "@shainar_bang";
+
+console.log('My name is ', name);
+console.log('I want to become a ', whatDoYouWannaBecomeinYourLife');
+console.log('My gender is ', gender');
+console.log('My instagram handle is ', instagramhandle');
