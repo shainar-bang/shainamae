@@ -1,0 +1,29 @@
+//Create a variable named favActorFirstName and store your
+favorite actor's first name
+let favActorFirstName = "Joshua";
+
+//Create a variable named favActorFirstName and store their last name
+let favActorLastName = "Garcia";
+let fullName = favActorFirstName+""+favActorLastName;
+
+//Create a variable named uppercase and store the lowercase version of your favorite actor's name 
+let uppercase = fullName.toLowerCase();
+
+//Create a variable named lowercase and store the capitalized version of your pet's name
+let petName ="bubble";
+let lowercase = "bubble",toUpperCase();
+
+//Create a variable named message and store a message like "My favorite actor is [FULL_NAME]", The name should be in uppercase
+let message = "My favorite actor is" + fullNametoUpperCase();
+
+//Append the message to include "his best show is UN/HAPPY FOR YOU"
+message += "and his best show is UN/HAPPY FOR YOU.";
+
+//Log all variable to the console using the code runner in VSCode
+console.log(favActorfirstName); //Joshua
+console.log(favActorLastName); //Garcia
+console.log(FullName); //Joshua Garcia
+console.log(uppercase); //joshua garcia
+console.log(petName); //bubble
+console.log(lowercase); //BUBBLE
+console.log(message); //My favorite actor is: JOSHUA GARCIA and his best show is UN/HAPPY FOR YOU.
